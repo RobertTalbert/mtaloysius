@@ -1,7 +1,7 @@
 (Re:)Designing Class for Flipped Learning Experiences
 =============================================================================
 
-This repository contains files and information for Robert Talbert's talk, _Re:Designing class for flipped learning experiences_ given on September 10, 2014 to the faculty at Mount Aloysius College.   
+This repository contains files and information for Robert Talbert's talk, _Re:Designing class for flipped learning experiences_ given on September 10, 2014 to the faculty at [Mount Aloysius College](http://www.mtaloy.edu/).   
 
 The talk can be viewed by going to [http://roberttalbert.github.io/mtaloysius](http://roberttalbert.github.io/mtaloysius) and then navigating through using the arrows on the screen. 
 
